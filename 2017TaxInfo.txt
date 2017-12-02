@@ -1,0 +1,11 @@
+﻿2017 To-Date Employee Tax Information
+
+First               Last                SSN                 Address                               Federal Tax                 State Tax                 Medicare                 Social Security                 Net Pay                 Gross Pay
+
+Ryan                Kwiatkowski         000-00-0000         123 Brookshire Ln                     739                         239			200			 000-00-0000			 32486.40		 27000.00     
+William             Scott               111-11-1111         256 Junction Blvd                     429                         456  			200			 111-11-1111			 34110.72		 29000.00
+Colton              Milstead            222-22-2222         4590 Curry Rd                         897                         357 			200			 222-22-2222			 33897.23		 28000.00
+Kevin               Milstead            333-33-3333         576 Reindeer St                       345                         523			200			 333-33-3333			 32764.78		 27000.00
+Charles             Kramer              444-44-4444         344 Cheese Rt                         650                         349  			200			 444-44-4444			 42097.13		 37000.00
+Fernando            Rodriguez           555-55-5555         1738 Iridocyclitis Rd                 578                         290    			200  			 555-55-5555			 27961.11		 23000.00
+Dave                Cook                777-77-7777         420-69 Hardassignmentgiver Blvd       300000                      4000     			5000			 777-77-7777			 12000.00		 -297000.00
